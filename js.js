@@ -66,6 +66,8 @@ if (c>a){
 */
 
 /*
+a= prompt("podaj liczbe 1: ")
+b= prompt("podaj liczbe 2: ")
 function gcd(a, b) {
   if (b === 0) {
     return a;
